@@ -1,0 +1,15 @@
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\bin\Debug\net8.0\Memorizor.exe
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\bin\Debug\net8.0\Memorizor.deps.json
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\bin\Debug\net8.0\Memorizor.runtimeconfig.json
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\bin\Debug\net8.0\Memorizor.dll
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\bin\Debug\net8.0\Memorizor.pdb
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\Memorizor.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\Memorizor.AssemblyInfoInputs.cache
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\Memorizor.AssemblyInfo.cs
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\Memorizor.csproj.CoreCompileInputs.cache
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\Memorizor.sourcelink.json
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\Memorizor.dll
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\refint\Memorizor.dll
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\Memorizor.pdb
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\Memorizor.genruntimeconfig.cache
+C:\My Files\Code\Memorizor\Memorizor\Memorizor\obj\Debug\net8.0\ref\Memorizor.dll
