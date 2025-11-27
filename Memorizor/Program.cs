@@ -36,7 +36,7 @@ namespace Memorizor
 
         private static int MenuOptions()
         {
-            Console.WriteLine("0. Exit");
+            Console.WriteLine("\n0. Exit");
             Console.WriteLine("1. Study");
             Console.WriteLine("2. Add New Terms");
 
