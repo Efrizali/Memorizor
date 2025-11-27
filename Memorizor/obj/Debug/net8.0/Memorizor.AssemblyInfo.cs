@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Memorizor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ead7419326f48c1778256d4b1f48c0a32ab8e105")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2905c6e531ea76f61faf6995ec69080f7f154860")]
 [assembly: System.Reflection.AssemblyProductAttribute("Memorizor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Memorizor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

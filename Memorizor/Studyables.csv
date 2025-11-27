@@ -1,0 +1,26 @@
+Acronyms|Vocab|IEEE|Digital Signal|CAT
+Group|Question|Answer
+IEEE|10Base-T|802.3, Cat 3, UTP, connect to hub or switch first, 100 meters
+IEEE|100Base-TX|802.3u, Cat 5 5e 6, UTP two-pair winding, 100 meters
+IEEE|100Base-FX|802.3u, 62.5/125 micron multimode fiber, point-to-point, ST/SC connectors, 412 meters
+IEEE|1000Base-CX|802.3z, Copper twisted-pair (twinax), cisco standard, HSSDC, 25 meters
+IEEE|1000Base-T|802.3ab, Cat 5, UTP 4 pair wiring, 1 Gbps, 100 meters
+IEEE|1000Base-SX|802.3z, 62.5/50 micron multimode fiber, shortwave lasers/leds, 850nm laster for 220/550 meters for 62.5/50 micron
+IEEE|1000Base-LX|802.3z, 9 micron single mode fiber, 1,300nm laster for 3-10 kilometers
+IEEE|1000Base-ZX|Cisco standard, single mode fiber for 43.5 miles (70 km)
+IEEE|10GBase-T|802.3an, cat 5e 6 7, UTP cables, 100 meters
+Digital Signal|DS0|64Kbps, E0 or J0 equivalent, 1 voice/data line
+Digital Signal|T1|DS1, 24 DS0s, 1.544 Mbps
+Digital Signal|E1|European, 30 DS0s, 2.048Mbps
+Digital Signal|T3|DS3, 28 DS1s, 672 DS0s, 44.736 Mbps
+Digital Signal|OC-3|Fiber, 3 DS3s, 2016 DS0s, 155.52 Mbps
+Digital Signal|OC-12|Fiber, 4 OC-3s, 8,064 DS0s, 622.08 Mbps
+Digital Signal|OC-48|Fiber, 4 OC-12s, 32,256 DS0s, 2488.32 Mbps
+CAT|Cat 5|Up to 100MHz, 100Mbps (Fast Ethernet), 100 meters (328 feet)
+Acronyms|HSSDC|High-Speed Serial Data Connector
+Vocab|Router|Separates and filters networks... Will get more info later... Will prob be 5 miles long
+CAT|Cat 5e|100 MHz, 1 Gbps, 100 meters (328 ft)
+CAT|Cat 6|250 MHz, 10Gbps, 55 meters (180 ft) for 10 Gbps, 100 meters (328 ft) for 1 Gbps
+CAT|Cat 6a|500 MHz, 10 Gbps, 100 meters (328 ft)
+CAT|Cat 7|600 MHz, 10 Gbps, 100 meters (328 ft)
+CAT|Cat 8|2 GHz, 25/40 Gbps, 30 meters (98 ft)

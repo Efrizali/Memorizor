@@ -6,19 +6,15 @@ using System.Threading.Tasks;
 
 namespace Memorizor
 {
-    internal class Input
+    internal class CMDInput
     {
-        public static int GetMenuOption(int optionCount)
-        {
-            return GetSpecificIntFromUser(1, optionCount);
-        }
 
-        private static String GetStringFromUser()
+        public static String? GetStringFromUser()
         {
             return Console.ReadLine();
         }
 
-        private static int GetIntFromUser()
+        public static int GetIntFromUser()
         {
             while (true)
             {
@@ -35,7 +31,7 @@ namespace Memorizor
             }
         }
 
-        private static int GetSpecificIntFromUser(int min, int max)
+        public static int GetSpecificIntFromUser(int min, int max)
         { 
             while (true)
             {

@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|c:\\my files\\code\\memorizor\\memorizor\\memorizor\\studyables.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|solutionrelative:studyables.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|c:\\my files\\code\\memorizor\\memorizor\\memorizor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|c:\\my files\\code\\memorizor\\memorizor\\memorizor\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|solutionrelative:input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|c:\\my files\\code\\memorizor\\memorizor\\memorizor\\cmdinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|solutionrelative:cmdinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|c:\\my files\\code\\memorizor\\memorizor\\memorizor\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|solutionrelative:datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|c:\\my files\\code\\memorizor\\memorizor\\memorizor\\studyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E697E5DE-524E-4917-9BA9-CF208A662FB0}|Memorizor.csproj|solutionrelative:studyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwJ8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T04:50:59.253Z",
               "IsPinned": true,
@@ -56,13 +68,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Input.cs",
-              "DocumentMoniker": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\Input.cs",
-              "RelativeDocumentMoniker": "Input.cs",
-              "ToolTip": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\Input.cs",
-              "RelativeToolTip": "Input.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Studyables.csv",
+              "DocumentMoniker": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\Studyables.csv",
+              "RelativeDocumentMoniker": "Studyables.csv",
+              "ToolTip": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\Studyables.csv",
+              "RelativeToolTip": "Studyables.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-26T22:10:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Studyable.cs",
+              "DocumentMoniker": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\Studyable.cs",
+              "RelativeDocumentMoniker": "Studyable.cs",
+              "ToolTip": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\Studyable.cs",
+              "RelativeToolTip": "Studyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:49:06.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\DataHandler.cs",
+              "RelativeDocumentMoniker": "DataHandler.cs",
+              "ToolTip": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\DataHandler.cs",
+              "RelativeToolTip": "DataHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T20:36:57.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMDInput.cs",
+              "DocumentMoniker": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\CMDInput.cs",
+              "RelativeDocumentMoniker": "CMDInput.cs",
+              "ToolTip": "C:\\My Files\\Code\\Memorizor\\Memorizor\\Memorizor\\CMDInput.cs",
+              "RelativeToolTip": "CMDInput.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-26T05:00:24.022Z",
               "EditorCaption": ""
